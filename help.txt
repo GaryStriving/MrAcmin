@@ -1,0 +1,4 @@
+Commands:
+	`#help`  -> Print this message.
+	`#getAttendance ${voice channel name}` -> Register attendance at current hour for a channel.
+	`#about` -> Prints info about the author of this bot. 
